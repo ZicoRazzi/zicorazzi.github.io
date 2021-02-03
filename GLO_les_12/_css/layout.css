@@ -1,0 +1,57 @@
+@import url("../main.less.css");
+
+.header{
+	font-size:20px;
+	line-height: 2;
+	margin:60px auto;
+}
+.header span{
+	display: block;
+}
+.header strong{
+	color:black;
+}
+.video, .form{
+	margin-top: 40px;
+}
+.form-header{
+	font-size: 20px;
+	font-weight: 900;
+	margin-bottom: 20px;
+}
+.form{
+	border: 5px solid #3c3cdd;
+	padding: 35px 20px;
+}
+.form-btn{
+	margin:12px auto;
+	background-color: #3c3cdd;
+}
+.form-input{
+	margin-bottom: 12px;
+}
+.section-header{
+	font-size: 20px;
+	font-weight: 900;
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+.feature{
+	margin:60px;
+	
+}
+.feature p{
+    margin-top:20px;
+	margin-bottom: 40px;
+
+}
+.section-clients{
+	margin-top: 40px;
+}
+.client-box{
+	width: 245px;
+	height: 245px;
+}
+.section-clients .col-lg-3{
+	margin:20px auto;
+}
